@@ -29,7 +29,7 @@ github_username:  mrfloppy42
 
 # Build settings
 #theme: minima
-remote_theme: ashtonmv/particular
+remote_theme: particular
 plugins:
   - jekyll-feed
 
